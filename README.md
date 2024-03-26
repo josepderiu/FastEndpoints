@@ -17,10 +17,11 @@ The HTTPS port for this project is configured in the `appsettings.json` (or `app
 
 For example:
 
-`json
+```json
 {
   "HttpsPort": 7089
-}`
+}
+```
 
 ## Running the Project
 
