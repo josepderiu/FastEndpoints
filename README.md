@@ -17,10 +17,10 @@ The HTTPS port for this project is configured in the `appsettings.json` (or `app
 
 For example:
 
-````json
+`json
 {
   "HttpsPort": 7089
-}
+}`
 
 ## Running the Project
 
@@ -28,4 +28,4 @@ To run the project, use the following command in the terminal:
 
 ```sh
 dotnet run --project WebApi/WebApi.csproj --launch-profile https
-````
+```
